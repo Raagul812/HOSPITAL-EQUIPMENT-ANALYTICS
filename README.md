@@ -23,6 +23,7 @@ The objective of this project is to:
 - Data Cleaning
 - Data Visualization
 - Tableau (Dashboard Development)
+- PowerBI
 
 ## Key Performance Indicators (KPIs)
 
